@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: my first github blog
+author: https://github.com/teeliny
+theme: minima
+email: teeliny@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my first blog in github during my first task as a DecaDev 005 Squad(awaiting). I believe 
+  in this most anticipated training. I am eager to learn from this moment.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: https://twitter.com/teeliny # DO NOT include the @ character, or else the build will fail!
+github_username:  https://github.com/teeliny # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
